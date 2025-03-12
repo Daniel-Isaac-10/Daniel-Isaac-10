@@ -60,11 +60,3 @@
 ! CyberSec Engaged!
 ```
 
-### **🚀 New Features Added!**
-✅ **Live Matrix Rain Effect** - Interactive hacker-style animation  
-✅ **Real-Time Terminal Simulation** - Displays running commands  
-✅ **Dark Mode with Neon Effects** - Aesthetic cyberpunk UI  
-✅ **Expandable Hidden Panels** - More cybersecurity insights  
-✅ **Live Clock & Fake System Status** - Adds realism  
-
-🚀 **Stay Anonymous, Stay Secure!** 🔥
