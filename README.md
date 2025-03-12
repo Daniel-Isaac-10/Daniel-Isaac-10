@@ -7,8 +7,8 @@
 ```
 ---
 
-### **🔰 Live Terminal**  
-![Live Hacking Animation](https://raw.githubusercontent.com/Dexter-X5/Dexter-X5/main/hacker-terminal.svg)
+### **🔰 Live Terminal Animation**  
+![Hacker Terminal Animation](https://github-readme-typing-svg.herokuapp.com?size=18&duration=4000&color=00FF00&lines=Initializing...;Scanning+for+Vulnerabilities...;Threat+Detected!+Mitigating...;Access+Granted.)
 
 ```bash
 > Initializing...
@@ -48,3 +48,12 @@
 
 ### **⚡ Live Hacker-Themed Animation**
 ![Hacker Matrix](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+### **💀 Glitch Text Animation**
+```diff
+- H4ck Th3 Pl4n3t
++ Ex3cut1ng C0d3...
+! CyberSec Engaged!
+```
+
+🚀 **Stay Anonymous, Stay Secure!** 🔥
