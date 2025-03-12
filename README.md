@@ -1,16 +1,45 @@
-## Hi there 👋
+### **🦾 DEXTER-X5 - CyberSec Enthusiast & Developer 🕵️‍♂️**
+```yaml
+- 🔭 I’m currently working on: IoT Vulnerability Scanning & Image Obfuscation
+- 🚀 Skills: Cybersecurity | Ethical Hacking | Java | Python | Nmap | Shodan
+- 🎯 Interests: OSINT | Penetration Testing | AI in Security
+- 📡 Connect with me: [GitHub](https://github.com/DEXTER-X5) | [LinkedIn](#) | [Email](#)
+```
+---
 
-<!--
-**DEXTER-X5/DEXTER-X5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **🔰 Live Terminal**  
+```bash
+> Initializing...
+██████╗ ███████╗██╗  ██╗████████╗███████╗██████╗     ██╗  ██╗███████╗
+██╔══██╗██╔════╝██║  ██║╚══██╔══╝██╔════╝██╔══██╗    ██║  ██║██╔════╝
+██║  ██║█████╗  ███████║   ██║   █████╗  ██████╔╝    ███████║█████╗  
+██║  ██║██╔══╝  ██╔══██║   ██║   ██╔══╝  ██╔═══╝     ██╔══██║██╔══╝  
+██████╔╝███████╗██║  ██║   ██║   ███████╗██║         ██║  ██║███████╗
+╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝         ╚═╝  ╚═╝╚══════╝
+```
+🔒 **Current Mission:** _Scanning for vulnerabilities..._  
+🕵️‍♂️ **Threat Level:** _Minimal (⚡)_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **📡 Tech Stack & Tools**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=nmap&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### **🛠️ Latest Projects**
+🚀 **IoT Vulnerability Scanner** - _Automated threat detection using Nmap & Shodan_  
+📸 **Image Obfuscation System** - _Advanced encryption & OTP-based decryption_
+
+---
+
+### **📈 GitHub Stats**
+![DEXTER-X5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEXTER-X5&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEXTER-X5&layout=compact&theme=radical)
+
+---
