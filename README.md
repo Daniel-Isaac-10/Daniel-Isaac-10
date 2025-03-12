@@ -31,18 +31,22 @@
 ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
 ### **🛠️ Latest Projects**
 🚀 **IoT Vulnerability Scanner** - _Automated threat detection using Nmap & Shodan_  
-📸 **Image Obfuscation System** - _Advanced encryption & OTP-based decryption_
+📸 **Image Obfuscation System** - _Advanced encryption & OTP-based decryption_  
+🛡️ **Cyber Threat Intelligence Tool** - _Real-time monitoring and automated alerts_
 
 ---
 
 ### **📈 GitHub Stats**
 ![DEXTER-X5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEXTER-X5&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEXTER-X5&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DEXTER-X5&theme=radical)
 
 ---
 
@@ -55,5 +59,12 @@
 + Ex3cut1ng C0d3...
 ! CyberSec Engaged!
 ```
+
+### **🚀 New Features Added!**
+✅ **Live Matrix Rain Effect** - Interactive hacker-style animation  
+✅ **Real-Time Terminal Simulation** - Displays running commands  
+✅ **Dark Mode with Neon Effects** - Aesthetic cyberpunk UI  
+✅ **Expandable Hidden Panels** - More cybersecurity insights  
+✅ **Live Clock & Fake System Status** - Adds realism  
 
 🚀 **Stay Anonymous, Stay Secure!** 🔥
