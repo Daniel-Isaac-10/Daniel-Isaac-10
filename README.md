@@ -8,6 +8,8 @@
 ---
 
 ### **🔰 Live Terminal**  
+![Live Hacking Animation](https://raw.githubusercontent.com/Dexter-X5/Dexter-X5/main/hacker-terminal.svg)
+
 ```bash
 > Initializing...
 ██████╗ ███████╗██╗  ██╗████████╗███████╗██████╗     ██╗  ██╗███████╗
@@ -43,3 +45,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEXTER-X5&layout=compact&theme=radical)
 
 ---
+
+### **⚡ Live Hacker-Themed Animation**
+![Hacker Matrix](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
