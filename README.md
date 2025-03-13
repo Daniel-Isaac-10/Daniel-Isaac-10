@@ -8,7 +8,8 @@
 ---
 
   
-![Hacker Terminal Animation](https://github-readme-typing-svg.herokuapp.com?size=18&duration=4000&color=00FF00&lines=Initializing...;Scanning+for+Vulnerabilities...;Threat+Detected!+Mitigating...;Access+Granted.)
+![Hacker Animation](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=00FF00&center=true&vCenter=true&lines=Booting+up+system...;Bypassing+firewall...;Access+granted!;Executing+payload...;Scanning+network...;Threat+neutralized!+🔓)
+
 
 ```bash
 > Initializing...
@@ -44,7 +45,7 @@
 ---
 
 
-![DEXTER-X5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-10&show_icons=true&theme=radical)
+![Daniel-Isaac-10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-10&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Isaac-10&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Isaac-10&theme=radical)
 
