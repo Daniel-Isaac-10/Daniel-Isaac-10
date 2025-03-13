@@ -1,4 +1,4 @@
-### **🦾 DEXTER-X5 - CyberSec Enthusiast & Developer 🕵️‍♂️**
+### **🦾 DANIEL ISAAC - CyberSec Enthusiast & Developer 🕵️‍♂️**
 ```yaml
 - 🔭 I’m currently working on: IoT Vulnerability Scanning & Image Obfuscation
 - 🚀 Skills: Cybersecurity | Ethical Hacking | Java | Python | Nmap | Shodan
@@ -7,7 +7,7 @@
 ```
 ---
 
-### **🔰 Live Terminal Animation**  
+  
 ![Hacker Terminal Animation](https://github-readme-typing-svg.herokuapp.com?size=18&duration=4000&color=00FF00&lines=Initializing...;Scanning+for+Vulnerabilities...;Threat+Detected!+Mitigating...;Access+Granted.)
 
 ```bash
@@ -24,7 +24,7 @@
 
 ---
 
-### **📡 Tech Stack & Tools**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=nmap&logoColor=white)
@@ -36,24 +36,24 @@
 
 ---
 
-### **🛠️ Latest Projects**
+
 🚀 **IoT Vulnerability Scanner** - _Automated threat detection using Nmap & Shodan_  
 📸 **Image Obfuscation System** - _Advanced encryption & OTP-based decryption_  
 🛡️ **Cyber Threat Intelligence Tool** - _Real-time monitoring and automated alerts_
 
 ---
 
-### **📈 GitHub Stats**
-![DEXTER-X5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEXTER-X5&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEXTER-X5&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DEXTER-X5&theme=radical)
+
+![DEXTER-X5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Isaac-10&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Isaac-10&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Isaac-10&theme=radical)
 
 ---
 
-### **⚡ Live Hacker-Themed Animation**
+
 ![Hacker Matrix](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-### **💀 Glitch Text Animation**
+
 ```diff
 - H4ck Th3 Pl4n3t
 + Ex3cut1ng C0d3...
