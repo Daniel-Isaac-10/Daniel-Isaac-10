@@ -1,6 +1,6 @@
 ### **🦾 DANIEL ISAAC - CyberSec Enthusiast & Developer 🕵️‍♂️**
 ```yaml
-- 🔭 I’m currently working on: IoT Vulnerability Scanning & Image Obfuscation
+- 🔭 I’m currently working on: HoneyPoT using SSH Brute Force 
 - 🚀 Skills: Cybersecurity | Ethical Hacking | Java | Python | Nmap | Shodan
 - 🎯 Interests: OSINT | Penetration Testing | AI in Security
 - 📡 Connect with me: [GitHub](https://github.com/Daniel-Isaac-10) | [LinkedIn](https://www.linkedin.com/in/daniel4956/) | [Email](daniel_isaac@zohomail.in)
